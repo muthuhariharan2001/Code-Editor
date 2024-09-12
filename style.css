@@ -45,7 +45,6 @@ textarea{
     outline: 0;
     font-size: 18px;
     padding: 10px 20px;
-    resize:vertical;
 }
 iframe {
     width: 100%;
